@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chris Y. Liu"
   avatar           : "profile.png"
-  bio              : "My current research interests lie in machine learning, natural language processing, and meta-learning. I work on approaches that emphasize the agent's generalization ability and allow agents to learn multiple tasks with minimal examples efficiently."
+  bio              : "I do machine learning research."
   location         : "Santa Cruz, CA"
   employer         :
   pubmed           :
