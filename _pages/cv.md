@@ -9,4 +9,6 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-[Chris Liu's CV](https://storage.googleapis.com/chrisliu298/cv_chrisliu.pdf)
+<!-- [Chris Liu's CV](https://storage.googleapis.com/chrisliu298/cv_chrisliu.pdf) -->
+
+<a href="https://storage.googleapis.com/chrisliu298/cv_chrisliu.pdf" target="_blank">Chris Liu's CV</a>
